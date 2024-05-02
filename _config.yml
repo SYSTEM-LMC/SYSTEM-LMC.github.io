@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: chen.cc.miao@qq.com
 description: "这里是 @LMC 的个人博客，与你一起发现更大的世界!"
 keyword: "SYSTEM-LMC UP主"
-url: "https://huangxuan.me" # your host, for absolute URL
+url: "https://system-lmc.github.io/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: LMCpro
-zhihu_username: LMCpro
-github_username: LMCpro
-twitter_username: LMCpro
-#facebook_username:  LMCpro
+weibo_username: huxpro
+zhihu_username: huxpro
+github_username: huxpro
+twitter_username: huxpro
+#facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
@@ -59,7 +59,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: LMC
+disqus_username: hux
 
 # Netease settings
 netease_comment: false
@@ -91,12 +91,5 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "乱序（Midare）", href: "http://mida.re/" },
-    { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
-    { title: "Kun Qian", href: "http://kunq.me" },
-    { title: "Sherry Woo", href: "https://sherrywoo.me/" },
-    { title: "SmdCn", href: "http://blog.smdcn.net" },
-    { title: "JiyinYiyong", href: "http://tiye.me/" },
-    { title: "DHong Say", href: "http://dhong.co" },
-    { title: "尹峰以为", href: "http://ingf.github.io/" },
+    { title: "哔哩哔哩（SYSTEM-LMC）", href: "https://space.bilibili.com/3546372999481905?spm_id_from=333.337.0.0/" },
   ]
