@@ -1,3 +1,4 @@
+---
 layout:       post
 title:        "你好"
 author:       "LMC"
@@ -7,4 +8,5 @@ tags:
     - Web
     - JavaScript
 ---
+
 1
