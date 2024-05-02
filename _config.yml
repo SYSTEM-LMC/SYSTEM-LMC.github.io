@@ -89,7 +89,7 @@ service-worker: true
 page-mathjax: false
 
 # Friends
-friends:
+转到:
   [
     { title: "哔哩哔哩（SYSTEM-LMC）", href: "https://space.bilibili.com/3546372999481905?spm_id_from=333.337.0.0/" },
   ]
